@@ -16,6 +16,7 @@
   },
   "devDependencies": {
     "chokidar": "^3.5.3",
+    "livereload": "^0.9.3",
     "nodemon": "^3.0.2"
   }
 }

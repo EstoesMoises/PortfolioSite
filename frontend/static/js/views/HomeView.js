@@ -9,7 +9,7 @@ export default class extends AbstractView {
     async getHtml() { 
         return /*html*/ `
         <h1>Welcome to the webpage</h1>
-        <p>Welcome to the webpageWelcome to the webpageWelcome to the webpageWelcome to the webpageWelcome to the webpageWelcome to the webpageWelcome to the webpageWelcome to the webpageWelcome to the webpageWelcome to the webpageWelcome to the webpageWelcome to the webpageWelcome to theasd</p>
+        <p>Welcome to the webpageWelcome to the webpageWelcome to the webpageWelcome to the webpageWelcome to the webpageWelcome to the webpageWelcome to the webpageWelcome to the webpageWelcome to the webpageWelcome to the webpageWelcome to the webpageWelcome to the webpageWelcome to ITS RELOADING !!</p>
         ` ;
     }
 }
